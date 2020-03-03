@@ -1,0 +1,1546 @@
+{
+  "annotations": {
+    "BB_0005": {
+      "end": 6306,
+      "start": 5250,
+      "strand": 1
+    },
+    "BB_0012": {
+      "end": 12161,
+      "start": 11420,
+      "strand": 1
+    },
+    "BB_0014": {
+      "end": 14728,
+      "start": 12745,
+      "strand": 1
+    },
+    "BB_0015": {
+      "end": 15345,
+      "start": 14724,
+      "strand": 1
+    },
+    "BB_0021": {
+      "end": 21083,
+      "start": 20050,
+      "strand": 1
+    },
+    "BB_0022": {
+      "end": 22101,
+      "start": 21057,
+      "strand": 1
+    },
+    "BB_0023": {
+      "end": 22739,
+      "start": 22145,
+      "strand": 1
+    },
+    "BB_0030": {
+      "end": 28490,
+      "start": 27854,
+      "strand": 1
+    },
+    "BB_0031": {
+      "end": 29472,
+      "start": 28491,
+      "strand": 1
+    },
+    "BB_0033": {
+      "end": 31479,
+      "start": 31026,
+      "strand": 1
+    },
+    "BB_0040": {
+      "end": 40677,
+      "start": 39825,
+      "strand": 1
+    },
+    "BB_0042": {
+      "end": 41432,
+      "start": 40760,
+      "strand": 1
+    },
+    "BB_0046": {
+      "end": 45991,
+      "start": 45445,
+      "strand": 1
+    },
+    "BB_0053": {
+      "end": 50012,
+      "start": 49340,
+      "strand": 1
+    },
+    "BB_0055": {
+      "end": 51251,
+      "start": 50489,
+      "strand": 1
+    },
+    "BB_0056": {
+      "end": 52434,
+      "start": 51252,
+      "strand": 1
+    },
+    "BB_0057": {
+      "end": 53461,
+      "start": 52453,
+      "strand": 1
+    },
+    "BB_0061": {
+      "end": 57185,
+      "start": 56831,
+      "strand": 1
+    },
+    "BB_0064": {
+      "end": 60039,
+      "start": 59100,
+      "strand": 1
+    },
+    "BB_0065": {
+      "end": 60533,
+      "start": 60035,
+      "strand": 1
+    },
+    "BB_0074": {
+      "end": 71219,
+      "start": 70141,
+      "strand": 1
+    },
+    "BB_0076": {
+      "end": 73492,
+      "start": 72646,
+      "strand": 1
+    },
+    "BB_0088": {
+      "end": 85720,
+      "start": 84040,
+      "strand": 1
+    },
+    "BB_0099": {
+      "end": 97866,
+      "start": 96942,
+      "strand": 1
+    },
+    "BB_0100": {
+      "end": 98648,
+      "start": 97862,
+      "strand": 1
+    },
+    "BB_0101": {
+      "end": 100205,
+      "start": 98816,
+      "strand": 1
+    },
+    "BB_0105": {
+      "end": 103771,
+      "start": 103015,
+      "strand": 1
+    },
+    "BB_0107": {
+      "end": 105846,
+      "start": 105417,
+      "strand": 1
+    },
+    "BB_0111": {
+      "end": 111042,
+      "start": 109674,
+      "strand": 1
+    },
+    "BB_0112": {
+      "end": 111567,
+      "start": 111045,
+      "strand": 1
+    },
+    "BB_0113": {
+      "end": 111875,
+      "start": 111584,
+      "strand": 1
+    },
+    "BB_0118": {
+      "end": 116806,
+      "start": 115504,
+      "strand": 1
+    },
+    "BB_0119": {
+      "end": 117763,
+      "start": 116824,
+      "strand": 1
+    },
+    "BB_0120": {
+      "end": 118370,
+      "start": 117677,
+      "strand": 1
+    },
+    "BB_0121": {
+      "end": 118929,
+      "start": 118374,
+      "strand": 1
+    },
+    "BB_0122": {
+      "end": 119803,
+      "start": 118963,
+      "strand": 1
+    },
+    "BB_0123": {
+      "end": 120589,
+      "start": 119806,
+      "strand": 1
+    },
+    "BB_0128": {
+      "end": 124814,
+      "start": 124148,
+      "strand": 1
+    },
+    "BB_0131": {
+      "end": 127413,
+      "start": 126315,
+      "strand": 1
+    },
+    "BB_0135": {
+      "end": 133842,
+      "start": 132471,
+      "strand": 1
+    },
+    "BB_0151": {
+      "end": 152179,
+      "start": 150973,
+      "strand": 1
+    },
+    "BB_0152": {
+      "end": 153012,
+      "start": 152205,
+      "strand": 1
+    },
+    "BB_0154": {
+      "end": 156400,
+      "start": 153700,
+      "strand": 1
+    },
+    "BB_0160": {
+      "end": 161208,
+      "start": 160089,
+      "strand": 1
+    },
+    "BB_0166": {
+      "end": 169399,
+      "start": 167878,
+      "strand": 1
+    },
+    "BB_0169": {
+      "end": 171484,
+      "start": 171262,
+      "strand": 1
+    },
+    "BB_0177": {
+      "end": 179543,
+      "start": 178916,
+      "strand": 1
+    },
+    "BB_0178": {
+      "end": 181405,
+      "start": 179539,
+      "strand": 1
+    },
+    "BB_0179": {
+      "end": 182802,
+      "start": 181407,
+      "strand": 1
+    },
+    "BB_0181": {
+      "end": 185275,
+      "start": 183391,
+      "strand": 1
+    },
+    "BB_0182": {
+      "end": 186552,
+      "start": 185277,
+      "strand": 1
+    },
+    "BB_0184": {
+      "end": 187194,
+      "start": 186948,
+      "strand": 1
+    },
+    "BB_0188": {
+      "end": 189055,
+      "start": 188707,
+      "strand": 1
+    },
+    "BB_0189": {
+      "end": 189276,
+      "start": 189075,
+      "strand": 1
+    },
+    "BB_0190": {
+      "end": 189859,
+      "start": 189298,
+      "strand": 1
+    },
+    "BB_0203": {
+      "end": 205072,
+      "start": 204136,
+      "strand": 1
+    },
+    "BB_0204": {
+      "end": 206044,
+      "start": 205174,
+      "strand": 1
+    },
+    "BB_0214": {
+      "end": 219634,
+      "start": 219055,
+      "strand": 1
+    },
+    "BB_0216": {
+      "end": 221637,
+      "start": 220728,
+      "strand": 1
+    },
+    "BB_0217": {
+      "end": 223178,
+      "start": 221741,
+      "strand": 1
+    },
+    "BB_0218": {
+      "end": 223961,
+      "start": 223178,
+      "strand": 1
+    },
+    "BB_0226": {
+      "end": 231491,
+      "start": 230213,
+      "strand": 1
+    },
+    "BB_0229": {
+      "end": 235534,
+      "start": 235288,
+      "strand": 1
+    },
+    "BB_0230": {
+      "end": 237142,
+      "start": 235594,
+      "strand": 1
+    },
+    "BB_0232": {
+      "end": 237956,
+      "start": 237629,
+      "strand": 1
+    },
+    "BB_0233": {
+      "end": 238226,
+      "start": 237968,
+      "strand": 1
+    },
+    "BB_0235": {
+      "end": 240250,
+      "start": 239143,
+      "strand": 1
+    },
+    "BB_0237": {
+      "end": 244003,
+      "start": 242437,
+      "strand": 1
+    },
+    "BB_0241": {
+      "end": 248102,
+      "start": 246596,
+      "strand": 1
+    },
+    "BB_0247": {
+      "end": 253039,
+      "start": 252433,
+      "strand": 1
+    },
+    "BB_0248": {
+      "end": 254931,
+      "start": 253158,
+      "strand": 1
+    },
+    "BB_0251": {
+      "end": 258985,
+      "start": 256462,
+      "strand": 1
+    },
+    "BB_0253": {
+      "end": 263712,
+      "start": 261291,
+      "strand": 1
+    },
+    "BB_0254": {
+      "end": 266114,
+      "start": 263987,
+      "strand": 1
+    },
+    "BB_0256": {
+      "end": 267275,
+      "start": 267065,
+      "strand": 1
+    },
+    "BB_0263": {
+      "end": 277064,
+      "start": 276671,
+      "strand": 1
+    },
+    "BB_0271": {
+      "end": 285962,
+      "start": 283868,
+      "strand": 1
+    },
+    "BB_0272": {
+      "end": 287089,
+      "start": 285970,
+      "strand": 1
+    },
+    "BB_0273": {
+      "end": 287877,
+      "start": 287088,
+      "strand": 1
+    },
+    "BB_0274": {
+      "end": 288173,
+      "start": 287909,
+      "strand": 1
+    },
+    "BB_0275": {
+      "end": 288946,
+      "start": 288181,
+      "strand": 1
+    },
+    "BB_0278": {
+      "end": 291021,
+      "start": 289962,
+      "strand": 1
+    },
+    "BB_0279": {
+      "end": 291595,
+      "start": 291058,
+      "strand": 1
+    },
+    "BB_0284": {
+      "end": 295228,
+      "start": 294784,
+      "strand": 1
+    },
+    "BB_0288": {
+      "end": 298776,
+      "start": 297465,
+      "strand": 1
+    },
+    "BB_0290": {
+      "end": 300764,
+      "start": 299729,
+      "strand": 1
+    },
+    "BB_0291": {
+      "end": 302489,
+      "start": 300779,
+      "strand": 1
+    },
+    "BB_0292": {
+      "end": 302839,
+      "start": 302503,
+      "strand": 1
+    },
+    "BB_0293": {
+      "end": 303309,
+      "start": 302850,
+      "strand": 1
+    },
+    "BB_0294": {
+      "end": 303740,
+      "start": 303332,
+      "strand": 1
+    },
+    "BB_0295": {
+      "end": 305120,
+      "start": 303773,
+      "strand": 1
+    },
+    "BB_0299": {
+      "end": 308517,
+      "start": 307317,
+      "strand": 1
+    },
+    "BB_0300": {
+      "end": 309780,
+      "start": 308538,
+      "strand": 1
+    },
+    "BB_0302": {
+      "end": 311617,
+      "start": 310558,
+      "strand": 1
+    },
+    "BB_0303": {
+      "end": 312715,
+      "start": 311659,
+      "strand": 1
+    },
+    "BB_0306": {
+      "end": 315314,
+      "start": 314423,
+      "strand": 1
+    },
+    "BB_0313": {
+      "end": 320249,
+      "start": 319679,
+      "strand": 1
+    },
+    "BB_0337": {
+      "end": 346364,
+      "start": 345062,
+      "strand": 1
+    },
+    "BB_0338": {
+      "end": 346841,
+      "start": 346430,
+      "strand": 1
+    },
+    "BB_0339": {
+      "end": 347301,
+      "start": 346860,
+      "strand": 1
+    },
+    "BB_0343": {
+      "end": 351331,
+      "start": 351055,
+      "strand": 1
+    },
+    "BB_0348": {
+      "end": 358440,
+      "start": 357006,
+      "strand": 1
+    },
+    "BB_0350": {
+      "end": 359495,
+      "start": 359216,
+      "strand": 1
+    },
+    "BB_0362": {
+      "end": 371013,
+      "start": 370026,
+      "strand": 1
+    },
+    "BB_0364": {
+      "end": 373520,
+      "start": 373139,
+      "strand": 1
+    },
+    "BB_0365": {
+      "end": 374151,
+      "start": 373566,
+      "strand": 1
+    },
+    "BB_0370": {
+      "end": 380558,
+      "start": 379340,
+      "strand": 1
+    },
+    "BB_0371": {
+      "end": 381892,
+      "start": 380554,
+      "strand": 1
+    },
+    "BB_0372": {
+      "end": 383382,
+      "start": 381909,
+      "strand": 1
+    },
+    "BB_0375": {
+      "end": 386162,
+      "start": 385448,
+      "strand": 1
+    },
+    "BB_0376": {
+      "end": 387337,
+      "start": 386158,
+      "strand": 1
+    },
+    "BB_0377": {
+      "end": 387807,
+      "start": 387333,
+      "strand": 1
+    },
+    "BB_0380": {
+      "end": 390341,
+      "start": 388976,
+      "strand": 1
+    },
+    "BB_0382": {
+      "end": 392957,
+      "start": 391931,
+      "strand": 1
+    },
+    "BB_0383": {
+      "end": 394063,
+      "start": 393043,
+      "strand": 1
+    },
+    "BB_0384": {
+      "end": 395166,
+      "start": 394104,
+      "strand": 1
+    },
+    "BB_0385": {
+      "end": 396506,
+      "start": 395480,
+      "strand": 1
+    },
+    "BB_0386": {
+      "end": 397077,
+      "start": 396603,
+      "strand": 1
+    },
+    "BB_0387": {
+      "end": 397476,
+      "start": 397101,
+      "strand": 1
+    },
+    "BB_0388": {
+      "end": 401677,
+      "start": 397543,
+      "strand": 1
+    },
+    "BB_0390": {
+      "end": 405617,
+      "start": 405242,
+      "strand": 1
+    },
+    "BB_0392": {
+      "end": 406861,
+      "start": 406180,
+      "strand": 1
+    },
+    "BB_0393": {
+      "end": 407292,
+      "start": 406860,
+      "strand": 1
+    },
+    "BB_0394": {
+      "end": 407898,
+      "start": 407343,
+      "strand": 1
+    },
+    "BB_0395": {
+      "end": 408092,
+      "start": 407921,
+      "strand": 1
+    },
+    "BB_0396": {
+      "end": 408380,
+      "start": 408200,
+      "strand": 1
+    },
+    "BB_0402": {
+      "end": 415793,
+      "start": 414326,
+      "strand": 1
+    },
+    "BB_0407": {
+      "end": 419506,
+      "start": 418387,
+      "strand": 1
+    },
+    "BB_0434": {
+      "end": 451921,
+      "start": 451138,
+      "strand": 1
+    },
+    "BB_0435": {
+      "end": 454472,
+      "start": 452039,
+      "strand": 1
+    },
+    "BB_0436": {
+      "end": 456388,
+      "start": 454483,
+      "strand": 1
+    },
+    "BB_0437": {
+      "end": 458036,
+      "start": 456575,
+      "strand": 1
+    },
+    "BB_0438": {
+      "end": 459434,
+      "start": 458276,
+      "strand": 1
+    },
+    "BB_0440": {
+      "end": 460071,
+      "start": 459915,
+      "strand": 1
+    },
+    "BB_0441": {
+      "end": 460411,
+      "start": 460051,
+      "strand": 1
+    },
+    "BB_0445": {
+      "end": 465132,
+      "start": 464052,
+      "strand": 1
+    },
+    "BB_0446": {
+      "end": 467278,
+      "start": 465517,
+      "strand": 1
+    },
+    "BB_0450": {
+      "end": 471220,
+      "start": 469960,
+      "strand": 1
+    },
+    "BB_0457": {
+      "end": 478005,
+      "start": 476262,
+      "strand": 1
+    },
+    "BB_0462": {
+      "end": 484586,
+      "start": 484286,
+      "strand": 1
+    },
+    "BB_0469": {
+      "end": 489495,
+      "start": 488982,
+      "strand": 1
+    },
+    "BB_0472": {
+      "end": 491927,
+      "start": 490643,
+      "strand": 1
+    },
+    "BB_0476": {
+      "end": 496217,
+      "start": 495032,
+      "strand": 1
+    },
+    "BB_0477": {
+      "end": 496579,
+      "start": 496267,
+      "strand": 1
+    },
+    "BB_0478": {
+      "end": 497235,
+      "start": 496614,
+      "strand": 1
+    },
+    "BB_0479": {
+      "end": 497874,
+      "start": 497244,
+      "strand": 1
+    },
+    "BB_0480": {
+      "end": 498191,
+      "start": 497894,
+      "strand": 1
+    },
+    "BB_0481": {
+      "end": 499046,
+      "start": 498212,
+      "strand": 1
+    },
+    "BB_0482": {
+      "end": 499334,
+      "start": 499055,
+      "strand": 1
+    },
+    "BB_0483": {
+      "end": 499703,
+      "start": 499340,
+      "strand": 1
+    },
+    "BB_0484": {
+      "end": 500588,
+      "start": 499706,
+      "strand": 1
+    },
+    "BB_0485": {
+      "end": 501009,
+      "start": 500592,
+      "strand": 1
+    },
+    "BB_0486": {
+      "end": 501212,
+      "start": 501014,
+      "strand": 1
+    },
+    "BB_0487": {
+      "end": 501469,
+      "start": 501214,
+      "strand": 1
+    },
+    "BB_0488": {
+      "end": 501865,
+      "start": 501496,
+      "strand": 1
+    },
+    "BB_0489": {
+      "end": 502185,
+      "start": 501879,
+      "strand": 1
+    },
+    "BB_0491": {
+      "end": 502941,
+      "start": 502755,
+      "strand": 1
+    },
+    "BB_0492": {
+      "end": 503349,
+      "start": 502950,
+      "strand": 1
+    },
+    "BB_0494": {
+      "end": 504285,
+      "start": 503925,
+      "strand": 1
+    },
+    "BB_0495": {
+      "end": 504795,
+      "start": 504297,
+      "strand": 1
+    },
+    "BB_0497": {
+      "end": 505541,
+      "start": 505103,
+      "strand": 1
+    },
+    "BB_0499": {
+      "end": 506984,
+      "start": 506864,
+      "strand": 1
+    },
+    "BB_0500": {
+      "end": 507379,
+      "start": 507001,
+      "strand": 1
+    },
+    "BB_0501": {
+      "end": 507798,
+      "start": 507405,
+      "strand": 1
+    },
+    "BB_0502": {
+      "end": 508848,
+      "start": 507813,
+      "strand": 1
+    },
+    "BB_0503": {
+      "end": 509241,
+      "start": 508869,
+      "strand": 1
+    },
+    "BB_0506": {
+      "end": 512396,
+      "start": 511676,
+      "strand": 1
+    },
+    "BB_0508": {
+      "end": 514527,
+      "start": 513225,
+      "strand": 1
+    },
+    "BB_0514": {
+      "end": 526254,
+      "start": 524553,
+      "strand": 1
+    },
+    "BB_0515": {
+      "end": 527305,
+      "start": 526324,
+      "strand": 1
+    },
+    "BB_0517": {
+      "end": 529198,
+      "start": 528103,
+      "strand": 1
+    },
+    "BB_0518": {
+      "end": 531105,
+      "start": 529197,
+      "strand": 1
+    },
+    "BB_0519": {
+      "end": 531692,
+      "start": 531128,
+      "strand": 1
+    },
+    "BB_0534": {
+      "end": 543816,
+      "start": 543048,
+      "strand": 1
+    },
+    "BB_0540": {
+      "end": 551723,
+      "start": 549641,
+      "strand": 1
+    },
+    "BB_0547": {
+      "end": 558024,
+      "start": 557406,
+      "strand": 1
+    },
+    "BB_0548": {
+      "end": 560732,
+      "start": 558005,
+      "strand": 1
+    },
+    "BB_0550": {
+      "end": 561554,
+      "start": 561116,
+      "strand": 1
+    },
+    "BB_0552": {
+      "end": 564167,
+      "start": 562184,
+      "strand": 1
+    },
+    "BB_0558": {
+      "end": 571280,
+      "start": 569558,
+      "strand": 1
+    },
+    "BB_0561": {
+      "end": 575247,
+      "start": 573852,
+      "strand": 1
+    },
+    "BB_0575": {
+      "end": 589667,
+      "start": 588065,
+      "strand": 1
+    },
+    "BB_0581": {
+      "end": 598591,
+      "start": 596530,
+      "strand": 1
+    },
+    "BB_0585": {
+      "end": 603729,
+      "start": 602373,
+      "strand": 1
+    },
+    "BB_0587": {
+      "end": 606983,
+      "start": 604778,
+      "strand": 1
+    },
+    "BB_0588": {
+      "end": 607935,
+      "start": 607137,
+      "strand": 1
+    },
+    "BB_0589": {
+      "end": 609078,
+      "start": 608022,
+      "strand": 1
+    },
+    "BB_0590": {
+      "end": 609906,
+      "start": 609060,
+      "strand": 1
+    },
+    "BB_0594": {
+      "end": 615771,
+      "start": 614013,
+      "strand": 1
+    },
+    "BB_0598": {
+      "end": 621953,
+      "start": 621044,
+      "strand": 1
+    },
+    "BB_0599": {
+      "end": 623447,
+      "start": 622004,
+      "strand": 1
+    },
+    "BB_0601": {
+      "end": 626260,
+      "start": 625006,
+      "strand": 1
+    },
+    "BB_0603": {
+      "end": 628948,
+      "start": 627091,
+      "strand": 1
+    },
+    "BB_0607": {
+      "end": 634464,
+      "start": 632484,
+      "strand": 1
+    },
+    "BB_0610": {
+      "end": 637957,
+      "start": 636592,
+      "strand": 1
+    },
+    "BB_0611": {
+      "end": 638556,
+      "start": 637971,
+      "strand": 1
+    },
+    "BB_0612": {
+      "end": 639872,
+      "start": 638579,
+      "strand": 1
+    },
+    "BB_0613": {
+      "end": 642249,
+      "start": 639858,
+      "strand": 1
+    },
+    "BB_0615": {
+      "end": 643126,
+      "start": 642499,
+      "strand": 1
+    },
+    "BB_0618": {
+      "end": 645601,
+      "start": 645136,
+      "strand": 1
+    },
+    "BB_0622": {
+      "end": 650387,
+      "start": 649169,
+      "strand": 1
+    },
+    "BB_0623": {
+      "end": 653790,
+      "start": 650412,
+      "strand": 1
+    },
+    "BB_0626": {
+      "end": 657543,
+      "start": 656997,
+      "strand": 1
+    },
+    "BB_0630": {
+      "end": 662529,
+      "start": 661605,
+      "strand": 1
+    },
+    "BB_0632": {
+      "end": 665011,
+      "start": 663178,
+      "strand": 1
+    },
+    "BB_0633": {
+      "end": 668517,
+      "start": 665007,
+      "strand": 1
+    },
+    "BB_0634": {
+      "end": 671763,
+      "start": 668522,
+      "strand": 1
+    },
+    "BB_0635": {
+      "end": 673167,
+      "start": 671766,
+      "strand": 1
+    },
+    "BB_0636": {
+      "end": 674778,
+      "start": 673341,
+      "strand": 1
+    },
+    "BB_0642": {
+      "end": 681606,
+      "start": 680562,
+      "strand": 1
+    },
+    "BB_0643": {
+      "end": 682524,
+      "start": 681684,
+      "strand": 1
+    },
+    "BB_0647": {
+      "end": 686507,
+      "start": 685976,
+      "strand": 1
+    },
+    "BB_0649": {
+      "end": 690127,
+      "start": 688489,
+      "strand": 1
+    },
+    "BB_0651": {
+      "end": 690799,
+      "start": 690481,
+      "strand": 1
+    },
+    "BB_0652": {
+      "end": 692645,
+      "start": 690884,
+      "strand": 1
+    },
+    "BB_0653": {
+      "end": 693528,
+      "start": 692628,
+      "strand": 1
+    },
+    "BB_0657": {
+      "end": 697437,
+      "start": 696750,
+      "strand": 1
+    },
+    "BB_0659": {
+      "end": 699965,
+      "start": 698399,
+      "strand": 1
+    },
+    "BB_0660": {
+      "end": 700924,
+      "start": 700051,
+      "strand": 1
+    },
+    "BB_0677": {
+      "end": 716619,
+      "start": 715008,
+      "strand": 1
+    },
+    "BB_0682": {
+      "end": 724130,
+      "start": 723062,
+      "strand": 1
+    },
+    "BB_0684": {
+      "end": 726495,
+      "start": 725430,
+      "strand": 1
+    },
+    "BB_0686": {
+      "end": 728675,
+      "start": 727736,
+      "strand": 1
+    },
+    "BB_0688": {
+      "end": 730506,
+      "start": 729612,
+      "strand": 1
+    },
+    "BB_0690": {
+      "end": 731720,
+      "start": 731183,
+      "strand": 1
+    },
+    "BB_0691": {
+      "end": 733803,
+      "start": 731793,
+      "strand": 1
+    },
+    "BB_0694": {
+      "end": 736686,
+      "start": 735351,
+      "strand": 1
+    },
+    "BB_0695": {
+      "end": 736959,
+      "start": 736698,
+      "strand": 1
+    },
+    "BB_0697": {
+      "end": 737712,
+      "start": 737211,
+      "strand": 1
+    },
+    "BB_0698": {
+      "end": 738428,
+      "start": 737708,
+      "strand": 1
+    },
+    "BB_0699": {
+      "end": 738771,
+      "start": 738405,
+      "strand": 1
+    },
+    "BB_0702": {
+      "end": 740176,
+      "start": 739684,
+      "strand": 1
+    },
+    "BB_0703": {
+      "end": 740422,
+      "start": 740239,
+      "strand": 1
+    },
+    "BB_0704": {
+      "end": 740688,
+      "start": 740445,
+      "strand": 1
+    },
+    "BB_0705": {
+      "end": 741425,
+      "start": 740687,
+      "strand": 1
+    },
+    "BB_0710": {
+      "end": 748119,
+      "start": 746338,
+      "strand": 1
+    },
+    "BB_0716": {
+      "end": 754068,
+      "start": 753291,
+      "strand": 1
+    },
+    "BB_0719": {
+      "end": 757670,
+      "start": 756353,
+      "strand": 1
+    },
+    "BB_0720": {
+      "end": 759581,
+      "start": 757835,
+      "strand": 1
+    },
+    "BB_0721": {
+      "end": 760215,
+      "start": 759585,
+      "strand": 1
+    },
+    "BB_0728": {
+      "end": 768064,
+      "start": 766732,
+      "strand": 1
+    },
+    "BB_0730": {
+      "end": 771139,
+      "start": 769546,
+      "strand": 1
+    },
+    "BB_0738": {
+      "end": 781385,
+      "start": 778757,
+      "strand": 1
+    },
+    "BB_0741": {
+      "end": 783248,
+      "start": 782975,
+      "strand": 1
+    },
+    "BB_0744": {
+      "end": 788962,
+      "start": 786859,
+      "strand": 1
+    },
+    "BB_0755": {
+      "end": 799016,
+      "start": 798056,
+      "strand": 1
+    },
+    "BB_0757": {
+      "end": 801072,
+      "start": 800475,
+      "strand": 1
+    },
+    "BB_0766": {
+      "end": 808464,
+      "start": 807975,
+      "strand": 1
+    },
+    "BB_0767": {
+      "end": 809552,
+      "start": 808460,
+      "strand": 1
+    },
+    "BB_0771": {
+      "end": 813239,
+      "start": 812438,
+      "strand": 1
+    },
+    "BB_0774": {
+      "end": 816299,
+      "start": 815501,
+      "strand": 1
+    },
+    "BB_0777": {
+      "end": 818548,
+      "start": 818017,
+      "strand": 1
+    },
+    "BB_0778": {
+      "end": 818916,
+      "start": 818604,
+      "strand": 1
+    },
+    "BB_0780": {
+      "end": 819487,
+      "start": 819241,
+      "strand": 1
+    },
+    "BB_0782": {
+      "end": 821188,
+      "start": 820606,
+      "strand": 1
+    },
+    "BB_0787": {
+      "end": 824382,
+      "start": 823815,
+      "strand": 1
+    },
+    "BB_0788": {
+      "end": 825704,
+      "start": 824381,
+      "strand": 1
+    },
+    "BB_0793": {
+      "end": 831563,
+      "start": 830954,
+      "strand": 1
+    },
+    "BB_0797": {
+      "end": 841832,
+      "start": 839243,
+      "strand": 1
+    },
+    "BB_0802": {
+      "end": 847488,
+      "start": 847125,
+      "strand": 1
+    },
+    "BB_0803": {
+      "end": 848339,
+      "start": 847490,
+      "strand": 1
+    },
+    "BB_0804": {
+      "end": 848804,
+      "start": 848537,
+      "strand": 1
+    },
+    "BB_0809": {
+      "end": 855996,
+      "start": 854868,
+      "strand": 1
+    },
+    "BB_0810": {
+      "end": 857509,
+      "start": 855988,
+      "strand": 1
+    },
+    "BB_0812": {
+      "end": 860111,
+      "start": 858938,
+      "strand": 1
+    },
+    "BB_0814": {
+      "end": 861774,
+      "start": 860439,
+      "strand": 1
+    },
+    "BB_0817": {
+      "end": 865042,
+      "start": 863635,
+      "strand": 1
+    },
+    "BB_0820": {
+      "end": 866694,
+      "start": 866493,
+      "strand": 1
+    },
+    "BB_0821": {
+      "end": 867601,
+      "start": 866680,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 910724,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "USA",
+          "#A18362"
+        ],
+        [
+          "CAN",
+          "#3A635D"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "state": {
+      "color_map": [
+        [
+          "USA/NY",
+          "#3A635D"
+        ],
+        [
+          "USA/CT",
+          "#4E847C"
+        ],
+        [
+          "USA/VT",
+          "#62A69C"
+        ],
+        [
+          "USA/MA",
+          "#81B7AF"
+        ],
+        [
+          "USA/NJ",
+          "#8CA049"
+        ],
+        [
+          "CAN/NovaScotia",
+          "#C9E569"
+        ],
+        [
+          "CAN/Ontario",
+          "#76A0EC"
+        ],
+        [
+          "CAN/NewBrunswick",
+          "#771911"
+        ],
+        [
+          "USA/ME",
+          "#924740"
+        ],
+        [
+          "USA/MI",
+          "#C1E5BB"
+        ],
+        [
+          "USA/NH",
+          "#E7B98A"
+        ],
+        [
+          "USA/PA",
+          "#DB8E8C"
+        ],
+        [
+          "CAN/Quebec",
+          "#CE9EFF"
+        ],
+        [
+          "USA/RI",
+          "#C6A2F9"
+        ],
+        [
+          "USA/VA",
+          "#B7D3DE"
+        ]
+      ],
+      "key": "state",
+      "legendTitle": "State",
+      "menuItem": "state",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "colorBy": "state",
+    "geoResolution": "state",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "country",
+    "state"
+  ],
+  "geo": {
+    "country": {
+      "CAN": {
+        "latitude": 56.1304,
+        "longitude": -106.3468
+      },
+      "USA": {
+        "latitude": 37.0902,
+        "longitude": -95.7129
+      }
+    },
+    "state": {
+      "CAN/NewBrunswick": {
+        "latitude": 46.5653,
+        "longitude": -66.4619
+      },
+      "CAN/NovaScotia": {
+        "latitude": 44.682,
+        "longitude": -63.7443
+      },
+      "CAN/Ontario": {
+        "latitude": 51.2538,
+        "longitude": -85.3232
+      },
+      "CAN/Quebec": {
+        "latitude": 52.9399,
+        "longitude": -73.5491
+      },
+      "USA/CT": {
+        "latitude": 41.6032,
+        "longitude": -73.0877
+      },
+      "USA/MA": {
+        "latitude": 42.4072,
+        "longitude": -71.3824
+      },
+      "USA/ME": {
+        "latitude": 45.2538,
+        "longitude": -69.4455
+      },
+      "USA/MI": {
+        "latitude": 44.3148,
+        "longitude": -85.6024
+      },
+      "USA/NH": {
+        "latitude": 43.1939,
+        "longitude": -71.5724
+      },
+      "USA/NJ": {
+        "latitude": 40.0583,
+        "longitude": -74.4057
+      },
+      "USA/NY": {
+        "latitude": 43.2994,
+        "longitude": -74.2179
+      },
+      "USA/PA": {
+        "latitude": 41.2033,
+        "longitude": -77.1945
+      },
+      "USA/RI": {
+        "latitude": 41.5801,
+        "longitude": -71.4774
+      },
+      "USA/VA": {
+        "latitude": 37.4316,
+        "longitude": -78.6569
+      },
+      "USA/VT": {
+        "latitude": 44.5588,
+        "longitude": -72.5778
+      },
+      "USA/WI": {
+        "latitude": 43.7844,
+        "longitude": -88.7879
+      }
+    }
+  },
+  "maintainer": [
+    "Sarah_Lapidus",
+    "https://github.com/sarahlapidus/Borrelia-burgdorferi-genomics"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Borrelia-burgdorferi-genomics",
+  "updated": "29 Feb 2020",
+  "virus_count": 146
+}
